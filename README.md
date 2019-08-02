@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/smurfwen/pipeline_project/_apis/build/status/weaponwen.pipelines-java?branchName=master)](https://dev.azure.com/smurfwen/pipeline_project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
